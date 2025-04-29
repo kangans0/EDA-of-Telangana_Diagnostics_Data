@@ -18,6 +18,6 @@ Examine the distribution and outliers of blood sugar levels (Fasting, Random, Po
 
 Compare the number of tests and types of tests conducted at different facilities (e.g., Anganwadi Centre, Ameerpet PHC) to assess facility performance or focus areas.
 
-5. Assess Thyroid Function Trends (TSH, T3, T4)
+5. Assess Thyroid Function Trends (TSH, T3, T4) 
 
 Analyze thyroid-related metrics (TSH, T3, T4) to understand prevalence of thyroid disorders among the population. on pyhton give separate code for each 
