@@ -14,7 +14,7 @@ Determine which medical tests (e.g., Thyroid Profile, Complete Blood Picture, Ra
 
 Examine the distribution and outliers of blood sugar levels (Fasting, Random, Post Lunch) to identify potential health risks like diabetes.
 
-4.Evaluate Facility-Wise Testing Patterns
+4. Evaluate Facility-Wise Testing Patterns
 
 Compare the number of tests and types of tests conducted at different facilities (e.g., Anganwadi Centre, Ameerpet PHC) to assess facility performance or focus areas.
 
