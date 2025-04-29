@@ -2,7 +2,7 @@ EDA of Telangana Diagnostics Data of year 2020 (september)
 
 these are the objective that are to be achieved
 
-1.Understand the Distribution of Patient Ages and Genders
+1. Understand the Distribution of Patient Ages and Genders
 
 Analyze the age and gender distribution of patients to identify the demographic profile of those undergoing medical tests.
 
