@@ -1,4 +1,4 @@
-EDA of Telangana Diagnostics Data of year 2020 (september)
+## EDA of Telangana Diagnostics Data of year 2020 (september)
 
 these are the objective that are to be achieved
 
