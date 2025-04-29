@@ -2,11 +2,11 @@
 
 ### these are the objective that are to be achieved
 
-1. Understand the Distribution of Patient Ages and Genders
+#### 1. Understand the Distribution of Patient Ages and Genders
 
 Analyze the age and gender distribution of patients to identify the demographic profile of those undergoing medical tests.
 
-2. Identify the Most Common Tests Conducted
+#### 2. Identify the Most Common Tests Conducted
 
 Determine which medical tests (e.g., Thyroid Profile, Complete Blood Picture, Random Blood Glucose) are most frequently performed across facilities.
 
